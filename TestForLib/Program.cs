@@ -7,9 +7,9 @@ namespace TestForLib
     {
         static void Main(string[] args)
         {
-            int a = 5;
-            int b = 7;
-            int c = 9;
+            int a = 3;
+            int b = 5;
+            int c = 5;
             double[] arr = new double[5] { 1, 2, 3, 4, 5 };
 
             Console.WriteLine(Algebra.SumArray(arr));

@@ -9,3 +9,14 @@ C:\Users\EVE\source\repos\TestForLib\obj\Debug\TestForLib.csproj.CoreCompileInpu
 C:\Users\EVE\source\repos\TestForLib\obj\Debug\TestForLib.csproj.CopyComplete
 C:\Users\EVE\source\repos\TestForLib\obj\Debug\TestForLib.exe
 C:\Users\EVE\source\repos\TestForLib\obj\Debug\TestForLib.pdb
+C:\Users\EVE\source\repos\UnlessFolder\TestForLib\bin\Debug\TestForLib.exe.config
+C:\Users\EVE\source\repos\UnlessFolder\TestForLib\bin\Debug\TestForLib.exe
+C:\Users\EVE\source\repos\UnlessFolder\TestForLib\bin\Debug\TestForLib.pdb
+C:\Users\EVE\source\repos\UnlessFolder\TestForLib\bin\Debug\UnlessMath.dll
+C:\Users\EVE\source\repos\UnlessFolder\TestForLib\bin\Debug\UnlessMath.pdb
+C:\Users\EVE\source\repos\UnlessFolder\TestForLib\obj\Debug\TestForLib.csproj.AssemblyReference.cache
+C:\Users\EVE\source\repos\UnlessFolder\TestForLib\obj\Debug\TestForLib.csproj.SuggestedBindingRedirects.cache
+C:\Users\EVE\source\repos\UnlessFolder\TestForLib\obj\Debug\TestForLib.csproj.CoreCompileInputs.cache
+C:\Users\EVE\source\repos\UnlessFolder\TestForLib\obj\Debug\TestForLib.csproj.CopyComplete
+C:\Users\EVE\source\repos\UnlessFolder\TestForLib\obj\Debug\TestForLib.exe
+C:\Users\EVE\source\repos\UnlessFolder\TestForLib\obj\Debug\TestForLib.pdb

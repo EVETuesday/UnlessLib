@@ -4,3 +4,9 @@ C:\Users\EVE\source\repos\UnlessMath\obj\Debug\UnlessMath.csproj.AssemblyReferen
 C:\Users\EVE\source\repos\UnlessMath\obj\Debug\UnlessMath.csproj.CoreCompileInputs.cache
 C:\Users\EVE\source\repos\UnlessMath\obj\Debug\UnlessMath.dll
 C:\Users\EVE\source\repos\UnlessMath\obj\Debug\UnlessMath.pdb
+C:\Users\EVE\source\repos\UnlessFolder\UnlessMath\bin\Debug\UnlessMath.dll
+C:\Users\EVE\source\repos\UnlessFolder\UnlessMath\bin\Debug\UnlessMath.pdb
+C:\Users\EVE\source\repos\UnlessFolder\UnlessMath\obj\Debug\UnlessMath.csproj.AssemblyReference.cache
+C:\Users\EVE\source\repos\UnlessFolder\UnlessMath\obj\Debug\UnlessMath.csproj.CoreCompileInputs.cache
+C:\Users\EVE\source\repos\UnlessFolder\UnlessMath\obj\Debug\UnlessMath.dll
+C:\Users\EVE\source\repos\UnlessFolder\UnlessMath\obj\Debug\UnlessMath.pdb

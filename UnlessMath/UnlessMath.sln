@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForLib", "..\TestForLib
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnlessMathLib", "UnlessMathLib", "{CD36FEDC-2875-4876-A46B-93D734158487}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unless50Tests", "..\Unless50Tests\Unless50Tests.csproj", "{1355E92E-F66B-420D-A55F-A58F5E98BE73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,14 @@ Global
 		{9A040B3B-AB5C-4C9F-98AD-DFE905F7EB81}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9A040B3B-AB5C-4C9F-98AD-DFE905F7EB81}.Release|x86.ActiveCfg = Release|Any CPU
 		{9A040B3B-AB5C-4C9F-98AD-DFE905F7EB81}.Release|x86.Build.0 = Release|Any CPU
+		{1355E92E-F66B-420D-A55F-A58F5E98BE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1355E92E-F66B-420D-A55F-A58F5E98BE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1355E92E-F66B-420D-A55F-A58F5E98BE73}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1355E92E-F66B-420D-A55F-A58F5E98BE73}.Debug|x86.Build.0 = Debug|Any CPU
+		{1355E92E-F66B-420D-A55F-A58F5E98BE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1355E92E-F66B-420D-A55F-A58F5E98BE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1355E92E-F66B-420D-A55F-A58F5E98BE73}.Release|x86.ActiveCfg = Release|Any CPU
+		{1355E92E-F66B-420D-A55F-A58F5E98BE73}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,6 +50,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A0681107-F33A-4E79-A3F3-D36281A182A8} = {CD36FEDC-2875-4876-A46B-93D734158487}
 		{9A040B3B-AB5C-4C9F-98AD-DFE905F7EB81} = {CD36FEDC-2875-4876-A46B-93D734158487}
+		{1355E92E-F66B-420D-A55F-A58F5E98BE73} = {CD36FEDC-2875-4876-A46B-93D734158487}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {568C131A-931F-478E-82FD-1E3C7FBB2FF1}
